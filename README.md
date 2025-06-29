@@ -1,10 +1,10 @@
-# 🧠 Employee Salary Prediction
+#  Employee Salary Prediction
 
 A machine learning project to predict employee salaries using features like education, experience, age, job title, and location.
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
@@ -14,7 +14,7 @@ A machine learning project to predict employee salaries using features like educ
 
 ---
 
-## 💡 Features Used
+##  Features Used
 
 - Education (encoded)
 - Experience
@@ -24,7 +24,7 @@ A machine learning project to predict employee salaries using features like educ
 
 ---
 
-## 🧪 Model Info
+##  Model Info
 
 - **Model Used**: Linear Regression
 - **R² Score**: 0.87
@@ -32,7 +32,7 @@ A machine learning project to predict employee salaries using features like educ
 
 ---
 
-## 🧰 How to Run Locally
+##  How to Run Locally
 
 1. Clone the repo:
    ```bash
