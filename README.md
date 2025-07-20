@@ -1,6 +1,3 @@
-# Employee_Salary_Prediction
-A Machine Learning project that predicts employee salaries based on factors like education, experience, age, job title, and location. Built using Python, Scikit-learn, Pandas, Joblib, and deployed with Streamlit.
-
 # 🧠 Employee Salary Prediction
 
 A machine learning web app that predicts employee salaries based on inputs like Education, Experience, Age, Job Title, and Location. Built with **Python**, **Scikit-learn**, and deployed using **Streamlit**.
