@@ -25,13 +25,6 @@ A machine learning web app that predicts employee salaries based on inputs like 
 
 ---
 
-## 📷 Screenshots
-
-*(You can add your own screenshots here)*  
-> ![App Screenshot](screenshot.png)
-
----
-
 ## 🔧 How to Run Locally
 
 1. **Clone the repository**
